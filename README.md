@@ -8,7 +8,7 @@ python generate_cam.py
 By running the code, it will generate class activation maps for randomly sampled imagenet test images. 
 
 ## Results
-Class Activation Maps from `Resnet18`
+Class Activation Maps from `Resnet18`. Pre-trained model is provided by `Pytorch`.
 
 |CAM|<img src="https://github.com/minkyu-choi04/ClassActivationMap/blob/master/plots/Selection_109.png" width=200\>|<img src="https://github.com/minkyu-choi04/ClassActivationMap/blob/master/plots/Selection_111.png" width=200\>|<img src="https://github.com/minkyu-choi04/ClassActivationMap/blob/master/plots/Selection_113.png" width=200\>
 |--------------------|--------------------|--------------------|--------------------|
